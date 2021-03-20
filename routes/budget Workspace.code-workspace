@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\cu-nyc-fsf-pt-10-2020-u-c\\18-PWA\\01-Activities\\07-Stu_PWAs"
+		},
+		{
+			"path": "..\\..\\cu-nyc-fsf-pt-10-2020-u-c\\18-PWA\\01-Activities\\08-Ins_Manifest"
+		},
+		{
+			"path": "..\\..\\cu-nyc-fsf-pt-10-2020-u-c\\18-PWA\\01-Activities\\09-Stu_Manifest"
+		},
+		{
+			"path": "..\\..\\cu-nyc-fsf-pt-10-2020-u-c\\18-PWA\\01-Activities\\10-Ins_Service_Workers"
+		},
+		{
+			"path": "..\\..\\cu-nyc-fsf-pt-10-2020-u-c\\18-PWA\\01-Activities\\11-Stu_Service_Workers"
+		},
+		{
+			"path": "..\\..\\cu-nyc-fsf-pt-10-2020-u-c\\18-PWA\\01-Activities\\12-Ins_Caching_Fetching_Files"
+		},
+		{
+			"path": "..\\..\\cu-nyc-fsf-pt-10-2020-u-c\\18-PWA\\01-Activities\\13-Stu_Caching_Fetching_Files"
+		},
+		{
+			"path": "..\\..\\cu-nyc-fsf-pt-10-2020-u-c\\18-PWA\\01-Activities\\14-Stu_Map-PWA"
+		},
+		{
+			"path": "..\\..\\cu-nyc-fsf-pt-10-2020-u-c\\18-PWA\\02-Homework"
+		}
+	],
+	"settings": {}
+}
